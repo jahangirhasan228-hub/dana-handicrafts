@@ -1,0 +1,8 @@
+{
+  "name": "Dana Shop - Modern E-Commerce Platform",
+  "description": "Full-stack e-commerce platform with product catalog, cart, checkout, bKash/Nagad/COD payment methods, order tracking, reviews, customer authentication, and admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
